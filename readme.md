@@ -1,1 +1,1 @@
-# COMP-3710 Project 2
+# COMP-3710-Project-2
