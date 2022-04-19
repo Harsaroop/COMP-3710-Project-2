@@ -6,4 +6,4 @@ import seaborn as sns
 
 raw_data = pd.read_csv('Bias_correction_ucl.csv')
 #raw_data.info()
-sns.pairplot(raw_data)
+#sns.pairplot(raw_data.sample(2))
